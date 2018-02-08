@@ -36,6 +36,8 @@ h1 {
 body {
     background-color: black;
     color: white;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 li {
@@ -62,3 +64,4 @@ table, th, td {
      border-collapse: collapse;
 
 }
+
